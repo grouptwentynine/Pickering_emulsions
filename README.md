@@ -1,1 +1,1 @@
-# Pickering_emulsions
+# Pickering emulsions investigations
