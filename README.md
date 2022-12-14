@@ -15,5 +15,5 @@ A collection of existing mathematical models for the investigation of different 
 Download the whole folder as a zip file and extract it entirely to let matlab load experimental data tables.
 
 - langevin_random.m code can take hours to run correctly, be patient.
-- postprocessing.py can be used to postprocess in blender the authomatically written result from langevin_random.py.
+- postprocessing.py can be used to postprocess in blender the authomatically written result from langevin_random.m.
 - Langevin integrator results can be also postprocessed in paraview importing the txt file, and using comma as column separator.
