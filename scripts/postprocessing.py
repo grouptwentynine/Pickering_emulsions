@@ -1,6 +1,6 @@
 import bpy
 
-text_file = open("/home/andrea/Documenti/Rclone/matlab/APC/project/blendersilica.txt", "r")
+text_file = open("your_result.txt", "r")
 lines = []
 
 
