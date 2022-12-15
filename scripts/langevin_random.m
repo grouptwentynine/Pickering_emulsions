@@ -104,8 +104,8 @@ gen_increase = 1e-5;
 gen_prob = tot_part/succ_tsteps + gen_increase;
 
 % saving control -------------------------------------------------------------------------------------------------------
-s_mat = 2000;
-s_vect = 500;
+s_mat = 2000; % matrix saving interval, based on time-step
+s_vect = 500; % vectors saving interval, based on time-step
 
 % ----------------------------------------------------------------------------------------------------------------------
 %% solution
@@ -148,7 +148,7 @@ for t = 1 : succ_tsteps
                 dist_surf = dist - radsum;
                 m_new = silica_mass(generated_silica);
 
-                if all(dist_surf > 0.0001e-9)
+                if all(dist_surf > 10e-9)
                     good = 1;
                 end
             end
@@ -165,7 +165,7 @@ for t = 1 : succ_tsteps
                 dist_surf = dist - radsum;
                 m_new = magnetite_mass(generated_magnetite);
 
-                if all(dist_surf > 0.0001e-9)
+                if all(dist_surf > 10e-9)
                     good = 1;
                 end
             end
