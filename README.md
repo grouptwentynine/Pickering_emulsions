@@ -1,6 +1,14 @@
 # Pickering emulsions investigations
 
-![alt text](PE_image.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/grouptwentynine/Pickering_emulsions">
+    <img src="PE_image.png" alt="Logo" width="282" height="240">
+  </a>
+</div>
+
+
 
 ## Abstract:
 The present work gives an insight on Pickering emulsions, which are a particular type of emulsions that uses solid colloidal particles as stabilizers and have gained rising popularity in the past decades thanks to their ability to prevent the droplets from coalescing and their non-toxic behavior. 
