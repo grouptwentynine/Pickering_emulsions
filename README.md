@@ -25,7 +25,7 @@ A collection of existing mathematical models for the investigation of different 
 ## User guide:
 Download the whole folder as a .zip file and extract it entirely to let matlab load experimental data tables or clone the repo with:
   ```bash
-    git clone https://github.com/grouptwentynine/Pickering_emulsions.git
+   $: git clone https://github.com/grouptwentynine/Pickering_emulsions.git
   ```
 ### furthermore:
 - [langevin_random.m](https://github.com/grouptwentynine/Pickering_emulsions/blob/main/scripts/langevin_random.m) code can take hours to run correctly, be patient.
