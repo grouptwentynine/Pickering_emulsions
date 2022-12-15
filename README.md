@@ -2,11 +2,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/grouptwentynine/Pickering_emulsions">
-    <img src="PE_image.png" alt="Logo" width="282" height="240">
+    <img src="/README_img/PE_image.png" alt="Logo" width="282" height="240">
   </a>
       <br />
     <a href="https://github.com/grouptwentynine/Pickering_emulsions">
-    <img src="G29.png" alt="Logo" width="110" height="15">
+    <img src="/README_img/G29.png" alt="Logo" width="110" height="15">
   </a>
     <h1 align="center">Pickering emulsions investigations</h3>
 </div>
