@@ -24,7 +24,7 @@ A collection of existing mathematical models for the investigation of different 
 
 ## User guide:
 Download the whole folder as a .zip file and extract it entirely to let matlab load experimental data tables or clone the repo with:
-  ```sh
+  ```bash
     git clone https://github.com/grouptwentynine/Pickering_emulsions.git
   ```
 ### furthermore:
