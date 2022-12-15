@@ -1,12 +1,5 @@
 # Pickering emulsions investigations
 
-<br />
-<div align="center">
-  <a href="https://github.com/grouptwentynine/Pickering_emulsions/blob/main/">
-    <img src="PE_IMAGE.png" alt="Logo" width="93.84" height="80">
-  </a>
-</div>
-
 ![alt text](PE_image.png)
 
 ## Abstract:
