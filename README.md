@@ -28,6 +28,6 @@ Download the whole folder as a .zip file and extract it entirely to let matlab l
    $: git clone https://github.com/grouptwentynine/Pickering_emulsions.git
   ```
 ### furthermore:
-- [langevin_random.m](https://github.com/grouptwentynine/Pickering_emulsions/blob/main/scripts/langevin_random.m) code can take hours to run correctly, be patient.
+- [langevin_random.m](https://github.com/grouptwentynine/Pickering_emulsions/blob/main/scripts/langevin_random.m) code can take several hours to run correctly, be patient.
 - [postprocessing.py](https://github.com/grouptwentynine/Pickering_emulsions/blob/main/scripts/postprocessing.py) can be used to postprocess in [blender](https://www.blender.org/) the authomatically written result from [langevin_random.m](https://github.com/grouptwentynine/Pickering_emulsions/blob/main/scripts/langevin_random.m).
 - Langevin integrator results can be also postprocessed in [paraview](https://www.paraview.org/) importing the .txt files, and using comma as column separator, without headers.
