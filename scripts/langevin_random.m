@@ -212,7 +212,8 @@ for t = 1 : succ_tsteps
     sn = sqrt(snx.^2 + sny.^2 + snz.^2);
         
     % evalueting tolerance
-    toll = (sum(sum(sn))/numel(sn)*10)^2;
+    omega = 5;
+    toll = (sum(sum(sn)))/(numel(sn)*omega)^2;
 
     % calculate overlapping
     olap = sn.^2 - dij.^2;
