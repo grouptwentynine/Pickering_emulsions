@@ -16,7 +16,7 @@ The present work gives an insight on Pickering emulsions, which are a particular
 A collection of existing mathematical models for the investigation of different aspects regarding this matter is reported in this study, these aspects being: the kinetics of formation of the droplets, the droplets stabilization time and the droplets size.
 
 ## Authors:
-- Andrea Somma
+- [Andrea Somma](https://github.com/sommaa)
 - Elvira Kazimova
 - Giovanni Tomaciello
 - Giovanni Madella
